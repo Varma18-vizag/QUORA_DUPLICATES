@@ -13,3 +13,7 @@ if st.button('Predict'):
     query = helper.query_point_creator(q1,q2)
     result = model.predict(query)[0]
     
+    if result:
+        st.header('Duplicate')
+    else:
+        st.header('Not Duplicate')
