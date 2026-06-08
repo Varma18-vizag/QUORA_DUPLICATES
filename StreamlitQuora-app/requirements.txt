@@ -5,3 +5,4 @@ numpy
 fuzzywuzzy
 distance
 beautifulsoup4
+nltk
