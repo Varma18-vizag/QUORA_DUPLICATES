@@ -1,5 +1,7 @@
 streamlit
-sklearn
+scikit-learn
+pandas
+numpy
 fuzzywuzzy
 distance
-bs4
+beautifulsoup4
